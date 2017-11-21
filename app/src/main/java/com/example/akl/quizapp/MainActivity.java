@@ -49,7 +49,7 @@ public class MainActivity extends AppCompatActivity {
                 if(Objects.equals(editText.getText().toString(), "wubba lubba dub dub")){
                     s4 = 1;
                 }
-                if(two.isChecked() && four.isChecked()){
+                if(two.isChecked() && four.isChecked() && !one.isChecked() && !three.isChecked()){
                     s5 = 1;
                 }
                 score = s1+s2+s3+s4+s5;
