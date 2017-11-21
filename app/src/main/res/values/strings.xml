@@ -25,7 +25,7 @@
     <string name="question4_answerB">Spleen Mountain</string>
     <string name="question4_answerC">Cerebral Cortex Carousel</string>
     <string name="question4_answerD">Bladder Falls</string>
-    <string name="question5_statement">In the episode "Auto Erotic Assimilation," what is the name of Rick's ex-lover?</string>
+    <string name="question5_statement">In the episode "Auto Erotic Assimilation," what is the name of Rick\'s ex-lover?</string>
     <string name="question5_answerA">Harmony</string>
     <string name="question5_answerBright">Unity</string>
     <string name="question5_answerC">Blim Blam</string>
