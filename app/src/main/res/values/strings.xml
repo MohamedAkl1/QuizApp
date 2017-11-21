@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <string name="question">Question #</string>
+    <string name="submit">submit</string>
+    <string name="score">Score</string>
+    <string name="_0">0</string>
+    <string name="out_of10">out of 5</string>
+    <string name="question1_statement">What fictional arcade space does Rick drag Morty to in the episode "Mortynight Run?"</string>
+    <string name="question1_answerAright">Blips and Chitz</string>
+    <string name="question1_answerB">Gooblops and Markuloids</string>
+    <string name="question1_answerC">Fleeb\'s Funland</string>
+    <string name="question1_answerD">Charlie Cheesers</string>
+    <string name="question2_statement">Beth Smith is originally from what town?</string>
+    <string name="question2_answerA">Chicago, Illinois</string>
+    <string name="question2_answerB">Salt Lake City, Utah</string>
+    <string name="question2_answerC">Pocatello, Idaho</string>
+    <string name="question2_answerDright">Muskegon, Michigan</string>
+    <string name="question3_statement">What was Jerry Smith\'s major in college?</string>
+    <string name="question3_answerAright">Civics</string>
+    <string name="question3_answerB">Liberal Arts</string>
+    <string name="question3_answerC">Philosophy</string>
+    <string name="question3_answerD">Archaeology</string>
+    <string name="question4_statement">In the "Anatomy Park" episode what theme park ride does Rick care about most?</string>
+    <string name="question4_answerAright">Pirates of the Pancreas</string>
+    <string name="question4_answerB">Spleen Mountain</string>
+    <string name="question4_answerC">Cerebral Cortex Carousel</string>
+    <string name="question4_answerD">Bladder Falls</string>
+    <string name="question5_statement">In the episode "Auto Erotic Assimilation," what is the name of Rick's ex-lover?</string>
+    <string name="question5_answerA">Harmony</string>
+    <string name="question5_answerBright">Unity</string>
+    <string name="question5_answerC">Blim Blam</string>
+    <string name="question5_answerD">Diversity</string>
+
+
+
+
+</resources>
