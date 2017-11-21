@@ -4,7 +4,7 @@
     <string name="submit">submit</string>
     <string name="score">Score</string>
     <string name="_0">0</string>
-    <string name="out_of10">out of 5</string>
+    <string name="out_of10">out of 7</string>
     <string name="question1_statement">What fictional arcade space does Rick drag Morty to in the episode "Mortynight Run?"</string>
     <string name="question1_answerAright">Blips and Chitz</string>
     <string name="question1_answerB">Gooblops and Markuloids</string>
@@ -20,18 +20,13 @@
     <string name="question3_answerB">Liberal Arts</string>
     <string name="question3_answerC">Philosophy</string>
     <string name="question3_answerD">Archaeology</string>
-    <string name="question4_statement">In the "Anatomy Park" episode what theme park ride does Rick care about most?</string>
-    <string name="question4_answerAright">Pirates of the Pancreas</string>
-    <string name="question4_answerB">Spleen Mountain</string>
-    <string name="question4_answerC">Cerebral Cortex Carousel</string>
-    <string name="question4_answerD">Bladder Falls</string>
-    <string name="question5_statement">In the episode "Auto Erotic Assimilation," what is the name of Rick\'s ex-lover?</string>
-    <string name="question5_answerA">Harmony</string>
-    <string name="question5_answerBright">Unity</string>
-    <string name="question5_answerC">Blim Blam</string>
-    <string name="question5_answerD">Diversity</string>
-
-
-
-
+    <string name="checkbox_question">Gazorpazorp is a planet in the Milky Way Galaxy</string>
+    <string name="question7_answerA">True</string>
+    <string name="question7_checkbox">Who are Beth\'s Children?</string>
+    <string name="mr_meeseeks">Mr Meeseeks</string>
+    <string name="morty">Morty</string>
+    <string name="summer_right">Summer</string>
+    <string name="rick">Rick</string>
+    <string name="what_s_rick_s_most_famous_catchphrase">What\'s Rick\'s most famous catchphrase?</string>
+    <string name="enter_answer_here">Enter Answer Here</string>
 </resources>
